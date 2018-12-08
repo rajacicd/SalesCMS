@@ -1,7 +1,7 @@
 package com.apl.multimodule;
 
 /**
- * Hello world!
+ * Hello world! TAG_ALTERNATE_IIOP_ADDRESS
  *
  */
 public class App 
